@@ -1,0 +1,27 @@
+Install:
+python 2.7
+numpy
+
+Code:
+globalvariables.py
+tester.py
+showmaze.py
+maze.py
+robot.py
+
+Running the code
+$ python tester.py test_maze_01.txt
+$ python tester.py test_maze_02.txt
+$ python tester.py test_maze_03.txt
+
+Supplementary Files:
+test_maze_01.txt
+test_maze_02.txt
+test_maze_03.txt
+
+Display Maze
+$ python showmaze.py test_maze_01.txt
+$ python showmaze.py test_maze_02.txt
+$ python showmaze.py test_maze_03.txt
+
+

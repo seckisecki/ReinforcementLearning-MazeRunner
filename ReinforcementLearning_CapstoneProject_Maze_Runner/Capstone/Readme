@@ -1,3 +1,15 @@
+Domain Background
+In the micromouse project a robot mouse is attempting to find the fastest way from a corner to the center of the maze. 
+The maze is unfamiliar 16x16 grid maze. 
+The micromouse is starting in a certain corner of the maze and needs to navigate to a goal that is located near the center. 
+In a first run the mouse maps out the maze in order to find the center. 
+In the following runs the mouse will figure out the best paths to the center and look for the fastest route to the goal area. 
+In this project the micromouse will navigate through a virtual maze. 
+The goal is to obtain the fastest time possible in a series of test runs.
+
+
+
+
 Install:
 python 2.7
 numpy
